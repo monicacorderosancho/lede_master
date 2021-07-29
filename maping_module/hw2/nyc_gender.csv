@@ -1,0 +1,80 @@
+Data os of Date,year,BoroughName,ProgramTypeName,Female,Male,Gender,total_population
+6/26/20,2020,Brooklyn,Adult Literacy - ABE/HSE (Discretionary),94,47,0,141
+6/26/20,2020,Brooklyn,Adult Literacy - BENL/ESOL (Discretionary),708,250,0,958
+6/26/20,2020,Brooklyn,Adolescent Literacy,28,25,0,53
+6/26/20,2020,Brooklyn,Adult Literacy - NDA (ABE/HSE/Spanish HSE),323,158,0,481
+6/26/20,2020,Brooklyn,Adult Literacy - BENL/ESOL,1810,646,0,2456
+6/26/20,2020,Brooklyn,Drop-in Centers,150,188,2,340
+6/26/20,2020,Brooklyn,Adult Literacy - ABE/HSE,261,248,1,510
+6/26/20,2020,Brooklyn,COMPASS Elementary,18185,16918,0,35103
+6/26/20,2020,Brooklyn,COMPASS Middle School,15147,14463,0,29610
+6/26/20,2020,Brooklyn,COMPASS High School,321,176,0,497
+6/26/20,2020,Brooklyn,COMPASS Explore,482,277,0,759
+6/26/20,2020,Brooklyn,Beacon,8868,11048,7,19923
+6/26/20,2020,Brooklyn,Cornerstone,4534,5630,7,10171
+6/26/20,2020,Brooklyn,ESL Civics,430,195,0,625
+6/26/20,2020,Bronx,Adult Literacy - ABE/HSE (Discretionary),73,95,0,168
+6/26/20,2020,Bronx,Adult Literacy - BENL/ESOL (Discretionary),283,104,0,387
+6/26/20,2020,Bronx,Adolescent Literacy,15,22,0,37
+6/26/20,2020,Bronx,Adult Literacy - NDA (ABE/HSE/Spanish HSE),325,184,1,510
+6/26/20,2020,Bronx,Adult Literacy - BENL/ESOL,1498,501,0,1999
+6/26/20,2020,Bronx,Drop-in Centers,187,258,0,445
+6/26/20,2020,Bronx,Adult Literacy - ABE/HSE,153,101,0,254
+6/26/20,2020,Bronx,COMPASS Elementary,14219,12936,0,27155
+6/26/20,2020,Bronx,COMPASS Middle School,12349,12176,0,24525
+6/26/20,2020,Bronx,COMPASS High School,248,270,0,518
+6/26/20,2020,Bronx,COMPASS Explore,399,234,0,633
+6/26/20,2020,Bronx,Beacon,4324,6434,3,10761
+6/26/20,2020,Bronx,Cornerstone,2730,3874,5,6609
+6/26/20,2020,Bronx,ESL Civics,366,103,0,469
+6/26/20,2020,Manhattan,Adult Literacy - ABE/HSE (Discretionary),24,20,0,44
+6/26/20,2020,Manhattan,Adult Literacy - BENL/ESOL (Discretionary),312,121,0,433
+6/26/20,2020,Manhattan,Adolescent Literacy,26,11,0,37
+6/26/20,2020,Manhattan,Adult Literacy - NDA (ABE/HSE/Spanish HSE),236,78,0,314
+6/26/20,2020,Manhattan,Adult Literacy - BENL/ESOL,559,226,0,785
+6/26/20,2020,Manhattan,Drop-in Centers,228,285,26,539
+6/26/20,2020,Manhattan,Adult Literacy - ABE/HSE,110,80,0,190
+6/26/20,2020,Manhattan,COMPASS Elementary,6399,5876,0,12275
+6/26/20,2020,Manhattan,COMPASS Middle School,8179,7919,0,16098
+6/26/20,2020,Manhattan,COMPASS High School,89,102,0,191
+6/26/20,2020,Manhattan,COMPASS Explore,176,109,0,285
+6/26/20,2020,Manhattan,Beacon,2884,3523,2,6409
+6/26/20,2020,Manhattan,Cornerstone,2106,2334,2,4442
+6/26/20,2020,Manhattan,ESL Civics,164,60,0,224
+6/26/20,2020,Queens,Adult Literacy - ABE/HSE (Discretionary),99,53,0,152
+6/26/20,2020,Queens,Adult Literacy - BENL/ESOL (Discretionary),345,181,0,526
+6/26/20,2020,Queens,Adult Literacy - NDA (ABE/HSE/Spanish HSE),86,42,0,128
+6/26/20,2020,Queens,Adult Literacy - BENL/ESOL,1533,569,0,2102
+6/26/20,2020,Queens,Drop-in Centers,128,213,6,347
+6/26/20,2020,Queens,Adult Literacy - ABE/HSE,139,68,0,207
+6/26/20,2020,Queens,COMPASS Elementary,12023,11840,0,23863
+6/26/20,2020,Queens,COMPASS Middle School,9275,10179,0,19454
+6/26/20,2020,Queens,COMPASS High School,184,111,0,295
+6/26/20,2020,Queens,COMPASS Explore,310,349,0,659
+6/26/20,2020,Queens,Beacon,7416,10452,3,17871
+6/26/20,2020,Queens,Cornerstone,1141,1568,2,2711
+6/26/20,2020,Queens,ESL Civics,609,226,0,835
+6/26/20,2020,Staten Island,Adult Literacy - ABE/HSE (Discretionary),2,3,0,5
+6/26/20,2020,Staten Island,Adult Literacy - BENL/ESOL (Discretionary),23,13,0,36
+6/26/20,2020,Staten Island,Adolescent Literacy,20,5,0,25
+6/26/20,2020,Staten Island,Adult Literacy - NDA (ABE/HSE/Spanish HSE),61,33,0,94
+6/26/20,2020,Staten Island,Adult Literacy - BENL/ESOL,312,84,0,396
+6/26/20,2020,Staten Island,Drop-in Centers,67,205,0,272
+6/26/20,2020,Staten Island,Adult Literacy - ABE/HSE,159,92,0,251
+6/26/20,2020,Staten Island,COMPASS Middle School,1847,1984,1,3832
+6/26/20,2020,Staten Island,COMPASS High School,55,33,0,88
+6/26/20,2020,Staten Island,COMPASS Explore,28,24,0,52
+6/26/20,2020,Staten Island,Beacon,1563,1529,0,3092
+6/26/20,2020,Staten Island,Cornerstone,965,1274,3,2242
+6/26/20,2020,Staten Island,ESL Civics,63,35,0,98
+6/26/20,2020,Outside of NYC,Adult Literacy - BENL/ESOL (Discretionary),3,2,0,5
+6/26/20,2020,Outside of NYC,Adult Literacy - NDA (ABE/HSE/Spanish HSE),1,0,0,1
+6/26/20,2020,Outside of NYC,Adult Literacy - BENL/ESOL,3,3,0,6
+6/26/20,2020,Outside of NYC,Drop-in Centers,8,17,0,25
+6/26/20,2020,Outside of NYC,Adult Literacy - ABE/HSE,1,0,0,1
+6/26/20,2020,Outside of NYC,COMPASS Middle School,88,112,0,200
+6/26/20,2020,Outside of NYC,COMPASS High School,1,2,0,3
+6/26/20,2020,Outside of NYC,COMPASS Explore,8,1,0,9
+6/26/20,2020,Outside of NYC,Beacon,216,597,1,814
+6/26/20,2020,Outside of NYC,Cornerstone,59,91,0,150
+6/26/20,2020,Outside of NYC,ESL Civics,1,0,0,1
